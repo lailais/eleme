@@ -1,6 +1,6 @@
 # ele
 
-> A Vue.js project
+>这是一个点餐app
 
 ## Build Setup
 
